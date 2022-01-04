@@ -1,2 +1,2 @@
 # flowerImageDetector
-detects if flower is present in an Image
+Ddetects if flower is present in an Image
