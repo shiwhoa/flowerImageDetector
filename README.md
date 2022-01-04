@@ -1,3 +1,3 @@
 # flowerImageDetector
 Computer Vision\
-Ddetects if flower is present in an Image
+Detects if flower is present in an Image
